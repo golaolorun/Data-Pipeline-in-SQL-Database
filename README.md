@@ -6,5 +6,6 @@ Create a data pipeline that organizes and maintain quarterly data that are dumpe
 ## Solution Approach
   - Create a new database in MySQL and create and ingestion layer to store all the tables.
   - 
-After creating tables, stored procedures, views and functions, attempt the below questions.
-Once you have got the answer to the below questions, download the csv file for each question and use it in Python for visualisations
+  - After creating tables, stored procedures, views and functions, attempt the 10 business questions asked by the CEO using SQL queries.
+  - Once these questions have been answered by writing SQL queries, download the csv file for each question (see output data) and use them generate visuals in Python     using matplotlib/seaborn libraries (
+  - Then create a Quarterly Business Report in form of a presentation to the CEO. 
